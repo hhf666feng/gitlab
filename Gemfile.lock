@@ -637,7 +637,7 @@ GEM
       sexp_processor (~> 4.1)
     rubyntlm (0.5.2)
     rubypants (0.2.0)
-    rubyzip (1.2.0)
+    rubyzip (1.2.3)
     rufus-scheduler (3.1.10)
     rugged (0.24.0)
     safe_yaml (1.0.4)
